@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.a2aa1612.chunk.css",
-    "main.js": "/static/js/main.d019eb5b.chunk.js",
-    "main.js.map": "/static/js/main.d019eb5b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4b9ced00.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4b9ced00.js.map",
-    "static/css/2.c33d3e7c.chunk.css": "/static/css/2.c33d3e7c.chunk.css",
-    "static/js/2.64c548e3.chunk.js": "/static/js/2.64c548e3.chunk.js",
-    "static/js/2.64c548e3.chunk.js.map": "/static/js/2.64c548e3.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.40a7ff3e964800618b95c0f1ab2b9f92.js": "/precache-manifest.40a7ff3e964800618b95c0f1ab2b9f92.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.c33d3e7c.chunk.css.map": "/static/css/2.c33d3e7c.chunk.css.map",
-    "static/css/main.a2aa1612.chunk.css.map": "/static/css/main.a2aa1612.chunk.css.map"
+    "main.css": "/ecommerce-admin/static/css/main.a2aa1612.chunk.css",
+    "main.js": "/ecommerce-admin/static/js/main.d019eb5b.chunk.js",
+    "main.js.map": "/ecommerce-admin/static/js/main.d019eb5b.chunk.js.map",
+    "runtime-main.js": "/ecommerce-admin/static/js/runtime-main.2cc585f9.js",
+    "runtime-main.js.map": "/ecommerce-admin/static/js/runtime-main.2cc585f9.js.map",
+    "static/css/2.c33d3e7c.chunk.css": "/ecommerce-admin/static/css/2.c33d3e7c.chunk.css",
+    "static/js/2.f23bef92.chunk.js": "/ecommerce-admin/static/js/2.f23bef92.chunk.js",
+    "static/js/2.f23bef92.chunk.js.map": "/ecommerce-admin/static/js/2.f23bef92.chunk.js.map",
+    "index.html": "/ecommerce-admin/index.html",
+    "precache-manifest.4fceb6c58e45ea24597fccf55b00f7de.js": "/ecommerce-admin/precache-manifest.4fceb6c58e45ea24597fccf55b00f7de.js",
+    "service-worker.js": "/ecommerce-admin/service-worker.js",
+    "static/css/2.c33d3e7c.chunk.css.map": "/ecommerce-admin/static/css/2.c33d3e7c.chunk.css.map",
+    "static/css/main.a2aa1612.chunk.css.map": "/ecommerce-admin/static/css/main.a2aa1612.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b9ced00.js",
+    "static/js/runtime-main.2cc585f9.js",
     "static/css/2.c33d3e7c.chunk.css",
-    "static/js/2.64c548e3.chunk.js",
+    "static/js/2.f23bef92.chunk.js",
     "static/css/main.a2aa1612.chunk.css",
     "static/js/main.d019eb5b.chunk.js"
   ]
